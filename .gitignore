@@ -1,0 +1,13 @@
+# Configuración privada
+conn.properties
+**/conn.properties
+
+# Maven
+target/
+
+# Java
+*.class
+
+# Visual Studio Code
+.vscode/
+.history/
